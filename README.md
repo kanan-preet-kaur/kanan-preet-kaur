@@ -13,7 +13,7 @@ I’m **Kanan Preet Kaur** — a passionate developer committed to **continuous 
 - **Frontend**: HTML, CSS, JavaScript, React  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB  
-- **Programming**: C++, JavaScript  
+- **Programming**: Java, JavaScript  
 - **Other**: Git, GitHub, REST APIs  
 
 ---
