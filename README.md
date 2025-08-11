@@ -1,6 +1,36 @@
-👋 Hi, I’m Kanan Preet Kaur.    I’m interested in programming and web development.
-🌱 I’m currently working on developing my coding skills and exploring various programming languages and technologies.
- I’m looking to engage with fellow students and professions to share knowledge and collaborate on projects.
-📫 Get in touch:
-        Email: kanan_masuta@icloud.com
+# 💫 About Me:
+Hi there! 👋  
+I’m **Kanan Preet Kaur** — a passionate developer committed to **continuous learning** and building impactful projects.  
+
+💻 **Currently Learning**  
+- 🚀 **MERN Stack** (MongoDB, Express.js, React, Node.js)  
+- 📚 **Data Structures & Algorithms** for stronger problem-solving skills  
+- 🛠 Developing real-world applications to put theory into practice  
+
+---
+
+## 🌟 Skills
+- **Frontend**: HTML, CSS, JavaScript, React  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB  
+- **Programming**: C++, JavaScript  
+- **Other**: Git, GitHub, REST APIs  
+
+---
+
+## 📌 Current Focus
+- 🎯 Building **MERN Stack projects** for portfolio  
+- 🧠 Practicing **DSA** consistently alongside development work  
+- 📖 Writing clean, maintainable, and scalable code  
+
+---
+
+---
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](#) *(https://www.linkedin.com/in/kanan-preet-kaur-a46707332/)*  
+
+
+---
+✨ *"Building, breaking, and learning — one commit at a time."*
 
