@@ -28,7 +28,8 @@ I’m **Kanan Preet Kaur** — a passionate developer committed to **continuous 
 ---
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn](#) *(https://www.linkedin.com/in/kanan-preet-kaur/)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kanan-preet-kaur/)
+- 📧 kananpreetkaur01@gmail.com
 
 
 ---
